@@ -1,0 +1,6 @@
+/home/os/Desktop/Juegos/POng/PONG GAME/build/CMakeFiles/GAME.dir
+/home/os/Desktop/Juegos/POng/PONG GAME/build/CMakeFiles/edit_cache.dir
+/home/os/Desktop/Juegos/POng/PONG GAME/build/CMakeFiles/rebuild_cache.dir
+/home/os/Desktop/Juegos/POng/PONG GAME/build/src/Game/CMakeFiles/Game.dir
+/home/os/Desktop/Juegos/POng/PONG GAME/build/src/Game/CMakeFiles/edit_cache.dir
+/home/os/Desktop/Juegos/POng/PONG GAME/build/src/Game/CMakeFiles/rebuild_cache.dir
