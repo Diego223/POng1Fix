@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/GAME.dir/src/main.cpp.o -o GAME   -L"/home/os/Desktop/Juegos/POng/PONG GAME/src/Game"  -Wl,-rpath,"/home/os/Desktop/Juegos/POng/PONG GAME/src/Game" src/Game/libGame.a -lSDL2main -lSDL2 
